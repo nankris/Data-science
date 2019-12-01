@@ -1,2 +1,2 @@
 # Data-science
-A nomad of Data science doing all the coding for fun and not seeing what the final objective of coding instead enjoying the process.
+My Data science projects which i practiced online on various datasets. In this repository multiple algorithms details are posted. I practiced these codes from various online sources. 
